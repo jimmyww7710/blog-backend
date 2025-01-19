@@ -4,6 +4,8 @@
   "description": "backend services for a blog website",
   "main": "server.js",
   "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'No build step needed'",
     "start": "node server.js"
   },
   "author": "jimmy",
